@@ -311,3 +311,4 @@ declare module 'weky' {
 	export function tinyCaptial(text: string): string;
 	export function vaporwave(text: string): string;
 }
+//test
